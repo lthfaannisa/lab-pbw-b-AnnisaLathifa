@@ -5,4 +5,3 @@
 
 * Nama : Annisa Lathifa
 * NPM : 2108107010088
-* Kelas : B
