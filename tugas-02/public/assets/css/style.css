@@ -1,0 +1,93 @@
+body{
+    background-color: #F9F5E7;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+   
+}
+
+/* Header */
+header {
+    padding: 10px;
+    background: #698269;
+    color: #FFFAE7;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Jua', sans-serif;
+}
+
+/* Footer */
+footer {
+    background: #698269;
+    color : #FFFAE7;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    left: 0%;
+    bottom: 0%;
+}
+
+/* Table */
+table {
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 10px;
+}
+
+th, td {
+    text-align: center;
+    font-size: 22;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background: #DFD3C3;
+}
+
+
+th {
+    background: #AA5656;
+    font-size : 24px;
+    color:  #FFFAE7;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    
+}
+
+.section-title {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.section-content {
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 10px;
+}
+
+.section-content p {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+/* myProfile */
+.myProfile {
+    float: right;
+    width: 30%;
+    padding: 10px;
+    margin-right: 15px;
+    margin-top: 10px;
+    border-radius: 8px;
+    background: #eaddcf;
+    color: #232946 ;
+}
+
+.myProfile img {
+    width: 80%;
+    height: 80%;
+    border-radius: 8px;
+}
